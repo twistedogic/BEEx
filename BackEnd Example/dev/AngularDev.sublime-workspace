@@ -1,0 +1,545 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"shopL",
+				"shopLnt"
+			],
+			[
+				"re",
+				"region"
+			],
+			[
+				"de",
+				"default_headers"
+			],
+			[
+				"in",
+				"inputcategory"
+			],
+			[
+				"res",
+				"resp"
+			],
+			[
+				"shopP",
+				"shopPrice"
+			],
+			[
+				"shop",
+				"shopPhone"
+			],
+			[
+				"sh",
+				"shopName"
+			],
+			[
+				"s",
+				"shopName"
+			],
+			[
+				"st",
+				"status"
+			],
+			[
+				"end",
+				"endPoint"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"scre",
+				"screenH"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"scr",
+				"screen"
+			],
+			[
+				"curren",
+				"currentZ"
+			],
+			[
+				"cur",
+				"currentX"
+			],
+			[
+				"clea",
+				"clearInterval"
+			],
+			[
+				"g",
+				"gyro"
+			],
+			[
+				"up",
+				"updateA"
+			],
+			[
+				"C",
+				"Calibrate"
+			],
+			[
+				"x",
+				"xSum"
+			],
+			[
+				"data",
+				"dataBase"
+			],
+			[
+				"cu",
+				"currentX"
+			],
+			[
+				"c",
+				"currentX"
+			],
+			[
+				"curr",
+				"currentZ"
+			],
+			[
+				"test",
+				"testValue"
+			],
+			[
+				"A",
+				"array"
+			],
+			[
+				"p",
+				"popSize"
+			],
+			[
+				"ne",
+				"nextPop"
+			],
+			[
+				"h",
+				"halfSize"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 1234,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/index.html",
+			"settings":
+			{
+				"buffer_size": 1032,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/js/lib/gmap.js",
+			"settings":
+			{
+				"buffer_size": 53027,
+				"line_ending": "Windows",
+				"name": "/*!"
+			}
+		},
+		{
+			"file": "routes/index.js",
+			"settings":
+			{
+				"buffer_size": 197,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/index.jade",
+			"settings":
+			{
+				"buffer_size": 18,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/partials/addPost.jade",
+			"settings":
+			{
+				"buffer_size": 198,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Jordan/Documents/GitHub/test/AP/public/js/app.js",
+		"/C/Users/Jordan/Documents/GitHub/test/AP/routes/index.js",
+		"/C/Users/Jordan/Documents/GitHub/test/AP/public/js/lib/angular/version.txt",
+		"/C/Users/Jordan/Documents/GitHub/test/AP/views/partials/index.jade",
+		"/C/Program Files (x86)/PdfSearchServer/PdfSearchServer.cfg",
+		"/C/Users/Jordan/Documents/GitHub/MeteorProject/Project/.meteor/local/build/server/server.js",
+		"/C/Program Files/Splunk/lib/node_modules/pdfkit/index.js",
+		"/C/Program Files/Splunk/bin/rest_handler.py",
+		"/C/Users/Jordan/Documents/GitHub/ProjectNS/FrontEnd/css/circularMeun.css",
+		"/C/Users/Jordan/Documents/GitHub/two.js-master/two.js-master/try.html",
+		"/C/Users/Jordan/Documents/GitHub/two.js-master/two.js-master/build/jquery.js",
+		"/C/Users/Jordan/Desktop/PuttyCm/PuttyCm/hp_cloud.dat",
+		"/C/Users/Jordan/Documents/GitHub/ProjectNS/Scrap/nodeScraper/cheerio/openRiceEng.js",
+		"/C/Users/Jordan/Documents/GitHub/ProjectNS/Monitor/parseUri.js",
+		"/C/Users/Jordan/Documents/GitHub/ProjectNS/Scrap/nodeScraper/cheerio/openRice.js",
+		"/C/Users/Jordan/Documents/GitHub/ProjectNS/Scrap/nodeScraper/cheerio/spider.js",
+		"/C/Users/Jordan/Desktop/projectTestLab/testWebServer/server.js",
+		"/C/Users/Jordan/Documents/GitHub/WebProject/examples/layers_places.html",
+		"/C/Users/Jordan/Documents/GitHub/WebProject/where.html",
+		"/C/Users/Jordan/Documents/GitHub/WebProject/gmaps.js",
+		"/C/Users/Jordan/Documents/GitHub/WebProject/webserver.js",
+		"/C/Users/Jordan/Desktop/Project test lab/Gmapp/index.html",
+		"/C/Users/Jordan/Desktop/Project test lab/Gmapp/indexUI.html",
+		"/C/Users/Jordan/Desktop/Project test lab/Gmapp/css/examples.css",
+		"/C/Users/Jordan/Desktop/Project test lab/Gmapp/where.html",
+		"/C/Users/Jordan/Desktop/Project test lab/Gmapp/examples/context_menu.html",
+		"/C/Users/Jordan/Desktop/Project test lab/Gmapp/examples/geolocation.html",
+		"/C/Users/Jordan/Desktop/Project test lab/WebEditer/editr-master/test/index.html",
+		"/C/Users/Jordan/Desktop/Project test lab/Gmapp/js/orientation.js",
+		"/C/Users/Jordan/Desktop/Project test lab/Gmapp/js/ace.js",
+		"/C/Users/Jordan/Desktop/Project test lab/tableDrum/v1/index.html",
+		"/C/Users/Jordan/Desktop/Project test lab/tableDrum/v1/style.css",
+		"/C/Users/Jordan/Desktop/Project test lab/tableDrum/v2/index.html",
+		"/C/Users/Jordan/Desktop/Project test lab/tableDrum/v2/zepto.js",
+		"/C/Users/Jordan/Desktop/Project test lab/tableDrum/v2/style.css",
+		"/C/Users/Jordan/Desktop/Project Archive/gyro.js",
+		"/C/Users/Jordan/Desktop/Project test lab/tableDrum/motionex.js",
+		"/C/Users/Jordan/Desktop/Project test lab/tableDrum/nonmobiletest.html",
+		"/C/Users/Jordan/Desktop/Project test lab/push.html",
+		"/C/Users/Jordan/Desktop/Project test lab/tableDrum/index.html",
+		"/C/Users/Jordan/Desktop/Project test lab/tableDrum/js/motion.js",
+		"/C/Users/Jordan/Desktop/Project test lab/CSS Style/Flat-UI-master/js/application.js",
+		"/C/Users/Jordan/Desktop/Project test lab/CircleSquare/CircleSquare.pde",
+		"/C/Users/Jordan/Desktop/Project test lab/CircleSquare/Tic-Tac-Toe",
+		"/C/Users/Jordan/Desktop/Project test lab/CircleSquare/index.html",
+		"/C/Users/Jordan/Desktop/Project test lab/flat-surface-shader/examples/canvas-basic.html",
+		"/C/Users/Jordan/Desktop/Project test lab/CircleSquare/proweb.js",
+		"/C/Users/Jordan/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"underscore",
+			"class=\"FR",
+			"class=\"FR\"",
+			"number",
+			"RestAddress",
+			"lat=",
+			"x=",
+			"金葉庭",
+			"金葉庭 ",
+			"PopupPrint",
+			"PopupPrint(poiid)\nPopupPrint(poiid)\nPopupPrint",
+			"poiid",
+			"sass",
+			"poiid",
+			"sass"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"settings":
+					{
+						"buffer_size": 1234,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								133,
+								133
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/index.html",
+					"settings":
+					{
+						"buffer_size": 1032,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								914,
+								914
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"word_separators": "./\\\\()\\\"\\'-:,.;<>~!@#%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "public/js/lib/gmap.js",
+					"settings":
+					{
+						"buffer_size": 53027,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								504,
+								504
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/*!",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "routes/index.js",
+					"settings":
+					{
+						"buffer_size": 197,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								197,
+								197
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "views/index.jade",
+					"settings":
+					{
+						"buffer_size": 18,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "views/partials/addPost.jade",
+					"settings":
+					{
+						"buffer_size": 198,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"test/AP/views/layout.jade"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true
+}
